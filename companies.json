@@ -1,0 +1,353 @@
+{
+    "_meta": {
+        "source": "https://www.genesiscentre.ca/portfolio",
+        "generated": "2026-05-03",
+        "filter": "current_companies_only",
+        "note": "Active Genesis portfolio companies. Alumni (Verafin, Mysa, HeyOrca, Rutter, Genoa, Spellbook, etc.) excluded since they no longer produce ongoing portfolio signal. Add them back if you want historical context."
+    },
+    "companies": [
+        {
+            "id": "abroadin",
+            "name": "AbroadIn",
+            "website": "https://abroadin.com",
+            "sector": "Education",
+            "description": "Smart study abroad assistant that helps students find suitable programs and choose destinations."
+        },
+        {
+            "id": "artinus",
+            "name": "Artinus Consulting",
+            "website": "https://artinus.ai",
+            "sector": "B2B",
+            "description": "AI consulting firm extracting insights via tailored ML algorithms and MLOps infrastructure."
+        },
+        {
+            "id": "atlansynth",
+            "name": "AtlanSynth",
+            "website": null,
+            "sector": "Healthcare",
+            "description": "AI-powered platform for evidence synthesis and research automation in scientific research."
+        },
+        {
+            "id": "atlantiq-ai",
+            "name": "Atlantiq AI",
+            "website": "https://www.jarbiz.ai",
+            "sector": "Ocean",
+            "description": "AI automating vessel design compliance for the marine industry."
+        },
+        {
+            "id": "audyse",
+            "name": "Audyse Technology",
+            "website": "https://audysetech.com",
+            "sector": "Consumer",
+            "description": "AI hearing protection turning workers into a distributed environmental sensing network."
+        },
+        {
+            "id": "beena",
+            "name": "Beena",
+            "website": "https://hibeena.com",
+            "sector": "B2B",
+            "description": "Seamless software migration platform for new customer onboarding."
+        },
+        {
+            "id": "biolabmate",
+            "name": "Biolabmate",
+            "website": "https://www.biolabmate.ca",
+            "sector": "Ocean",
+            "description": "Seaweed-derived plastic alternatives for laboratory and medical consumables."
+        },
+        {
+            "id": "bonocle",
+            "name": "Bonocle",
+            "website": "https://www.bonocle.co",
+            "sector": "Education",
+            "description": "Innovative tech products designed to empower the blind community."
+        },
+        {
+            "id": "bookinghook",
+            "name": "BookingHook",
+            "website": "https://www.bookinghook.com",
+            "sector": "Real Estate and Construction",
+            "description": "Commission-free direct booking platform for vacation rental hosts and guests."
+        },
+        {
+            "id": "clace",
+            "name": "Clace",
+            "website": null,
+            "sector": "B2B",
+            "description": "Context-enabled AI productivity tooling \u2014 memory and context for AI agents."
+        },
+        {
+            "id": "corsphere",
+            "name": "CORSphere",
+            "website": "https://www.corsphere.com",
+            "sector": "Industrial",
+            "description": "AI-powered predictive maintenance for fleets, robots, and machinery systems."
+        },
+        {
+            "id": "data-farms",
+            "name": "Data Farms",
+            "website": "https://datafarms.ca",
+            "sector": "B2B",
+            "description": "Precision IoT company using sensors to monitor crops in real-time."
+        },
+        {
+            "id": "duatask",
+            "name": "DuaTask",
+            "website": "https://www.duatask.com",
+            "sector": "Healthcare",
+            "description": "Remote pharmaceutical compound checks with real-time imaging."
+        },
+        {
+            "id": "essereale",
+            "name": "EsseReale",
+            "website": "https://essereale.com",
+            "sector": "Consumer",
+            "description": "Mobility aid solutions for adults and seniors who struggle with walking."
+        },
+        {
+            "id": "fixden",
+            "name": "FixDen",
+            "website": "https://www.fixden.com",
+            "sector": "Real Estate and Construction",
+            "description": "AI-powered job management platform for independent contractors and trade teams."
+        },
+        {
+            "id": "flolytics",
+            "name": "FloLytics",
+            "website": null,
+            "sector": "B2B",
+            "description": "AI software transforming static P&ID diagrams into interactive process analysis tools."
+        },
+        {
+            "id": "gradhat",
+            "name": "GradHat",
+            "website": "https://gradhat.com",
+            "sector": "Education",
+            "description": "Autonomous platform identifying personal AI risk profile and delivering agent-driven education."
+        },
+        {
+            "id": "gridstress",
+            "name": "GridStress",
+            "website": "https://gridstress.com",
+            "sector": "Utilities",
+            "description": "Energy grid analysis platform reporting on grid congestion and hosting capacity."
+        },
+        {
+            "id": "groundcontrol",
+            "name": "GroundControl",
+            "website": "https://www.gndctl.com",
+            "sector": "Industrial",
+            "description": "Automated ballooning and inspection report generation."
+        },
+        {
+            "id": "hadamard",
+            "name": "Hadamard",
+            "website": "https://www.hadamard.ca",
+            "sector": "B2B",
+            "description": "AI tool delivering instant, cited insights from Canadian case law."
+        },
+        {
+            "id": "harvest-mind-ai",
+            "name": "Harvest Mind AI",
+            "website": "https://harvestmindai.com",
+            "sector": "Agriculture",
+            "description": "Hardware/software solution standardizing fruit quality grading across farms and supply chains."
+        },
+        {
+            "id": "laniva-ai",
+            "name": "Laniva AI",
+            "website": "https://www.laniva-ai.com",
+            "sector": "Real Estate and Construction",
+            "description": "AI-assisted system acting as first point of contact for property owners and managers."
+        },
+        {
+            "id": "ludoco-games",
+            "name": "Ludoco Games",
+            "website": "https://ludocogames.com",
+            "sector": "Education",
+            "description": "Educational games making science assessments fun and stress-free."
+        },
+        {
+            "id": "luxsonic",
+            "name": "Luxsonic",
+            "website": "https://luxsonic.ca",
+            "sector": "Healthcare",
+            "description": "VR-powered radiology workflow platform with AI for productivity boost."
+        },
+        {
+            "id": "magnetic-motion",
+            "name": "Magnetic Motion",
+            "website": "https://magneticmotioninc.com",
+            "sector": "B2B",
+            "description": "Hybrid-electric engines for greener, safer flying."
+        },
+        {
+            "id": "mallax-vision",
+            "name": "Mallax Vision",
+            "website": "https://www.mallaxvision.com",
+            "sector": "B2B",
+            "description": "Automated product analysis to reduce returns and boost satisfaction."
+        },
+        {
+            "id": "med-temp",
+            "name": "Med Temp",
+            "website": "https://www.medtemp.ca",
+            "sector": "Healthcare",
+            "description": "Precise, reliable transport of critical medications."
+        },
+        {
+            "id": "metacrust",
+            "name": "MetaCrust",
+            "website": "https://www.metacrust.ca",
+            "sector": "Healthcare",
+            "description": "Custom software for medical wearables with strong data privacy."
+        },
+        {
+            "id": "nditive",
+            "name": "Nditive",
+            "website": "https://www.nditive.com",
+            "sector": "Industrial",
+            "description": "AI-powered wearable detecting multiple gases for safer industrial operations."
+        },
+        {
+            "id": "nutraforge",
+            "name": "NutraForge",
+            "website": "https://www.nutraforge.ca",
+            "sector": "B2B",
+            "description": "AI-driven nutrition insights for managing IBD and improving care."
+        },
+        {
+            "id": "omascan",
+            "name": "OmaScan",
+            "website": "https://omascan.com",
+            "sector": "Healthcare",
+            "description": "Smartphone-based home environment scanning, measurement, and equipment placement."
+        },
+        {
+            "id": "pragmaclin",
+            "name": "PragmaClin",
+            "website": "https://www.pragmaclin.com",
+            "sector": "Healthcare",
+            "description": "Digital tools revolutionizing movement disorder monitoring and assessments."
+        },
+        {
+            "id": "qualiteas",
+            "name": "QualiTEAS",
+            "website": "https://qualiteas.ca",
+            "sector": "Industrial",
+            "description": "Next-generation corrosion inspection solutions for asset management."
+        },
+        {
+            "id": "respai",
+            "name": "RespAi",
+            "website": "https://respai.ca",
+            "sector": "Healthcare",
+            "description": "AI-powered health monitoring protecting firefighters from toxic exposure."
+        },
+        {
+            "id": "scansolve",
+            "name": "ScanSolve",
+            "website": "https://linktr.ee/scansolve",
+            "sector": "Education",
+            "description": "AI tutor platform offering personalized, step-by-step learning for students."
+        },
+        {
+            "id": "scient-analytics",
+            "name": "Scient Analytics",
+            "website": "https://www.scient.ca",
+            "sector": "Industrial",
+            "description": "De-risking mining exploration through AI and advanced non-destructive imaging."
+        },
+        {
+            "id": "sheerr-weather",
+            "name": "Sheerr Weather",
+            "website": "https://www.sheerrweather.ca",
+            "sector": "Consumer",
+            "description": "In-depth weather coverage for Newfoundland and Labrador across multiple channels."
+        },
+        {
+            "id": "smartdoor",
+            "name": "SmartDoor",
+            "website": "https://smartdoor.ai",
+            "sector": "Industrial",
+            "description": "Smart monitoring system for safer, energy-efficient commercial overhead doors."
+        },
+        {
+            "id": "soma-health",
+            "name": "SOMA Health",
+            "website": "https://www.soma-health.ca",
+            "sector": "Healthcare",
+            "description": "AI communication platform enhancing clinician-client connection in mental health."
+        },
+        {
+            "id": "speech-metrics",
+            "name": "Speech Metrics",
+            "website": "https://www.speechcatcher.ca",
+            "sector": "Education",
+            "description": "Platform for creating and delivering speech assessment tests."
+        },
+        {
+            "id": "starluv",
+            "name": "Starluv",
+            "website": "https://starluv.ca",
+            "sector": "Consumer",
+            "description": "AI-powered Canadian marketplace for clothing resale and shopping."
+        },
+        {
+            "id": "techleft",
+            "name": "TechLeft",
+            "website": "https://techleft.com",
+            "sector": "Healthcare",
+            "description": "Medication adherence tech helping seniors live independently."
+        },
+        {
+            "id": "the-harbour",
+            "name": "The Harbour",
+            "website": "https://theharbourcommunity.com",
+            "sector": "Healthcare",
+            "description": "Community platform for birthing parents with honest connection and support."
+        },
+        {
+            "id": "themapic",
+            "name": "Themapic",
+            "website": "https://themapic.com",
+            "sector": "Real Estate and Construction",
+            "description": "Customizable map software using AI."
+        },
+        {
+            "id": "titan-industrial",
+            "name": "Titan Industrial Electronics",
+            "website": "https://ti-electronics.com",
+            "sector": "Industrial",
+            "description": "Quantum-resilient secure communications for government and commercial sectors."
+        },
+        {
+            "id": "veristart",
+            "name": "VeriStart",
+            "website": "https://www.veristart.ca",
+            "sector": "Real Estate and Construction",
+            "description": "Access control system improving safety and security on construction sites."
+        },
+        {
+            "id": "verlo",
+            "name": "Verlo",
+            "website": "https://verlo.finance",
+            "sector": "SaaS",
+            "description": "Reducing administrative burden for financial planners on compliance and record keeping."
+        },
+        {
+            "id": "vifta",
+            "name": "Vifta",
+            "website": "https://vifta.ca",
+            "sector": "Consumer",
+            "description": "Platform connecting dog lovers with ethical breeders for happy homes."
+        },
+        {
+            "id": "weevva",
+            "name": "Weevva",
+            "website": "https://www.weevva.com",
+            "sector": "Real Estate and Construction",
+            "description": "All-in-one rental platform simplifying landlord and tenant management."
+        }
+    ]
+}
