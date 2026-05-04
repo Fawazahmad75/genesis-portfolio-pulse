@@ -3,7 +3,9 @@ uvicorn[standard]
 exa-py
 firecrawl-py
 anthropic
+groq
 chromadb
+sentence-transformers
 python-dotenv
 pydantic
 httpx
